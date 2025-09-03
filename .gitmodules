@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "mlspatial"]
 	path = mlspatial
-	url = https://github.com/cran/mlspatial
+	url = https://github.com/azizadeboye/mlspatial
